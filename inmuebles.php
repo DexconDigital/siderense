@@ -62,7 +62,7 @@ if (isset($_GET["gs"]) && isset($_GET["ti"]) && isset($_GET["ci"]) && isset($_GE
                                 <span class="top-icon-circle">
 								<i class="fa fa-phone"></i>
 							</span>
-                                <span class="top-bar-text"> (4) - 322 00 32</span>
+                                <span class="top-bar-text"> (604) 322 00 32</span>
                             </div>
                             <div class="top-localization pull-left hidden-sm hidden-md hidden-xs">
                                 <span class="top-icon-circle pull-left">
@@ -217,7 +217,7 @@ if (isset($_GET["gs"]) && isset($_GET["ti"]) && isset($_GET["ci"]) && isset($_GE
 						<div class="footer-separator"></div>
 						<span><i class="fa fa-envelope fa-sm"></i><a href="#">siderenselaestrella@une.net.co</a></span>
 						<div class="footer-separator"></div>
-						<span><i class="fa fa-phone"></i>(4)-322 00 32</span>
+						<span><i class="fa fa-phone"></i>(604) 322 00 32</span>
 					</address>
                         <div class="clear"></div>
                     </div>
